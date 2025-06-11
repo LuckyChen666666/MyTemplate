@@ -1,4 +1,4 @@
-# 0. 编译环境
+# 0. 使用环境
 
 `Windows` + `TeX Live 2021` + `XeLaTeX` + `TeXstudio`.
 
