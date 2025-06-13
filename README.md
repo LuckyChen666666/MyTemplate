@@ -17,7 +17,13 @@
 - 定义了带有结束符号 `//` 的例题环境 `bli`. (为了与上一条一致, 也是在例题环境的名称前加 `b`)
 - 定义了框框内的有序列表环境 `luolie` (“罗列”的拼音). 
 - 图片统一放在文件夹 `图片` 下.
-- 交换图使用 `tikz-cd` 绘制, 箭头样式为 `stealth`. 
+- 交换图使用 `tikz-cd` 绘制, 箭头样式为
+```tex
+\tikzcdset{
+ arrow style=tikz,
+ diagrams={>={Classical TikZ Rightarrow[width=0pt 10, length=5pt]}}
+ }
+```
 
 # 2. 学习笔记模板
 
