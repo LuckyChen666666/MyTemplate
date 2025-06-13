@@ -21,13 +21,13 @@
 ```tex
 \tikzcdset{
  arrow style=tikz,
- diagrams={>={Classical TikZ Rightarrow[width=0pt 10, length=5pt]}}
+ diagrams={>={Classical TikZ Rightarrow[width=0pt 11, length=5pt]}}
  }
 ```
 
 # 2. 学习笔记模板
 
-英文正文字体与公式字体采用 LaTeX 的默认样式,  其余与 `学习笔记模板 (Times风格)` 相同.
+英文与公式采用 LaTeX 的默认样式,  其余与 `学习笔记模板 (Times风格)` 相同.
 
 # 3. beamer模板
 
