@@ -33,10 +33,14 @@
 
 英文与公式采用 LaTeX 的默认样式,  其余与 `学习笔记模板 (Times风格)` 相同.
 
-# 3. beamer模板
+# 3. 学习笔记模板 (CM加粗版)
+
+英文与公式采用比 LaTeX 的默认样式 `Computer Modern` 稍微粗一点的 `New Computer Modern`,  其余与 `学习笔记模板 (Times风格)` 相同.
+
+# 4. beamer模板
 
 - 中文正文字体使用`微软雅黑`, 主题使用 `Madrid`, 每一个 `section` 前设置了目录导航页.
 
-# 4. beamer模板 (中文字体稍细版)
+# 5. beamer模板 (中文字体稍细版)
 
 - 中文正文字体使用华文细黑 `STXihei` (这是一种更细的无衬线字体). 其余与 `beamer模板` 相同. 
