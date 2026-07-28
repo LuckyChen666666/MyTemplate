@@ -51,9 +51,13 @@
 
 中文正文字体使用 `微软雅黑`, 英文与数学字体使用 `arev` 宏包, 主题使用 `Madrid`, 每一个 `section` 前设置了目录导航页.
 
-![beamer模板](https://cdn.jsdelivr.net/gh/LuckyChen666666/MyImage@main/202607271036525.png)
+![beamer模板](https://cdn.jsdelivr.net/gh/LuckyChen666666/MyImage@main/202607281714988.png)
 
-![beamer模板](https://cdn.jsdelivr.net/gh/LuckyChen666666/MyImage@main/202607271035089.png)
+![beamer模板](https://cdn.jsdelivr.net/gh/LuckyChen666666/MyImage@main/202607281715066.png)
+
+![beamer模板](https://cdn.jsdelivr.net/gh/LuckyChen666666/MyImage@main/202607281715212.png)
+
+![beamer模板](https://cdn.jsdelivr.net/gh/LuckyChen666666/MyImage@main/202607281716726.png)
 
 # 6. beamer模板 (中文字体稍细版)
 
