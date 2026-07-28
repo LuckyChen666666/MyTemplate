@@ -27,10 +27,6 @@
 
 ![学习笔记模板 (Times风格)](https://cdn.jsdelivr.net/gh/LuckyChen666666/MyImage@main/202607271028311.png)
 
-<!-- # 2. 学习笔记模板(Times风格+每章都有参考文献)
-
-为每章罗列参考文献进行了设置, 其余和 `学习笔记模板 (Times风格)` 相同.  -->
-
 # 2. 学习笔记模板
 
 英文与除 `mathcal` 外的公式字体采用 LaTeX 的默认样式, 交换图也采用 LaTeX 的默认样式, 其余与 `学习笔记模板 (Times风格)` 相同.
@@ -43,15 +39,23 @@
 
 ![学习笔记模板 (CM加粗版)](https://cdn.jsdelivr.net/gh/LuckyChen666666/MyImage@main/202607271034189.png)
 
-# 4. beamer模板
+# 4. 学习笔记模板 (Times风格+每章都有参考文献)
 
-中文正文字体使用`微软雅黑`, 主题使用 `Madrid`, 每一个 `section` 前设置了目录导航页.
+为每章罗列参考文献进行了设置, 其余和 `学习笔记模板 (Times风格)` 相同.
+
+![学习笔记模板 (Times风格+每章都有参考文献)](https://cdn.jsdelivr.net/gh/LuckyChen666666/MyImage@main/202607281025761.png)
+
+![学习笔记模板 (Times风格+每章都有参考文献)](https://cdn.jsdelivr.net/gh/LuckyChen666666/MyImage@main/202607281026103.png)
+
+# 5. beamer模板
+
+中文正文字体使用 `微软雅黑`, 主题使用 `Madrid`, 每一个 `section` 前设置了目录导航页.
 
 ![beamer模板](https://cdn.jsdelivr.net/gh/LuckyChen666666/MyImage@main/202607271036525.png)
 
 ![beamer模板](https://cdn.jsdelivr.net/gh/LuckyChen666666/MyImage@main/202607271035089.png)
 
-# 5. beamer模板 (中文字体稍细版)
+# 6. beamer模板 (中文字体稍细版)
 
 中文正文字体使用华文细黑 `STXihei` (这是一种更细的无衬线字体). 其余与 `beamer模板` 相同. 
 
