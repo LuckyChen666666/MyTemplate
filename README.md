@@ -59,10 +59,10 @@
 
 ![beamer模板](https://cdn.jsdelivr.net/gh/LuckyChen666666/MyImage@main/202607281716726.png)
 
-# 6. beamer模板 (中文字体稍细版)
+<!-- # 6. beamer模板 (中文字体稍细版)
 
 中文正文字体使用华文细黑 `STXihei` (这是一种更细的无衬线字体), 英文与公式字体使用默认样式, 主题使用 `Madrid`, 每一个 `section` 前设置了目录导航页.
 
 ![beamer模板 (中文字体稍细版)](https://cdn.jsdelivr.net/gh/LuckyChen666666/MyImage@main/202607291044865.png)
 
-![beamer模板 (中文字体稍细版)](https://cdn.jsdelivr.net/gh/LuckyChen666666/MyImage@main/202607291044265.png)
+![beamer模板 (中文字体稍细版)](https://cdn.jsdelivr.net/gh/LuckyChen666666/MyImage@main/202607291044265.png) -->
