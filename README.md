@@ -4,6 +4,7 @@
 
 # 1. 学习笔记模板 (Times风格)
 
+- `article` 文档类, 带有比 `\section` 高一级的命令 `\part`, 显示为 `第X部分`.
 - 中文正文字体为 `宋体`, 加粗为 `黑体`, 加斜为 `楷体`. 
 - 英文正文字体为 `Times New Roman`, 公式字体为 `mtpro2`.
 - 单独设置了偏导 `\partial`、圆周率 `\pi`、积分 `\int`与花括号 `\{\}` 的样式. 
@@ -25,7 +26,7 @@
  }
 ```
 
-![学习笔记模板 (Times风格)](https://cdn.jsdelivr.net/gh/LuckyChen666666/MyImage@main/202607271028311.png)
+![微信图片_20261011102054_8_41](https://raw.githubusercontent.com/LuckyChen666666/qingjian-image-assets/a6398f939afdfd54341cba5e7735e4ea94afc1c1/images/2026-10/14f6e038-2443-443f-88fc-42a258c6054d.png)
 
 # 2. 学习笔记模板
 
@@ -39,15 +40,7 @@
 
 ![学习笔记模板 (CM加粗版)](https://cdn.jsdelivr.net/gh/LuckyChen666666/MyImage@main/202607271034189.png)
 
-# 4. 学习笔记模板 (Times风格+每章都有参考文献)
-
-为每章罗列参考文献进行了设置, 其余和 `学习笔记模板 (Times风格)` 相同.
-
-![学习笔记模板 (Times风格+每章都有参考文献)](https://cdn.jsdelivr.net/gh/LuckyChen666666/MyImage@main/202607281025761.png)
-
-![学习笔记模板 (Times风格+每章都有参考文献)](https://cdn.jsdelivr.net/gh/LuckyChen666666/MyImage@main/202607281026103.png)
-
-# 5. beamer模板
+# 4. beamer模板
 
 - 中文正文字体使用 `微软雅黑`, 英文与数学字体使用 `arev` 宏包;
 - 主题使用 `Madrid`;
